@@ -6,9 +6,9 @@ J'utilise ce GitHub pour y mettre mes projets d'école.
 ---
 
 ## 🛠️ Technologies & Outils
-- **Apprentissage Dévelloppement :** HTML5, CSS3
+- **Apprentissage Développement :** HTML5, CSS3
 - **Design & 3D :** Figma, Adobe Illustrator, Adobe InDesign
-- **Montage & Création :** DaVinci Resolve, OBS Studio
+- **Montage & Création :** DaVinci Resolve, OBS Studio, Première pro (en Apprentissage)
 
 ---
 
