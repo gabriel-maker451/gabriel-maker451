@@ -1,25 +1,18 @@
-# Salut, moi c'est Gabriel 👋
+# Bonjour ! Je suis Gabriel VELLA 
 
-Étudiant en **Bachelor 1** à **La Manu** (Amiens) en création numérique, jeux vidéo, 3D et développement.  
-J'utilise ce GitHub pour versionner mes TP, mes projets d'école et mes créations personnelles.
+## Étudiant en **Bachelor** à l'école de **La Manu** à Amiens en création numérique, jeux vidéo, 3D et développement.  
+J'utilise ce GitHub pour y mettre mes TP, ainsi que mes projets d'école.
 
 ---
 
 ## 🛠️ Technologies & Outils
-- **Développement :** HTML5, CSS3, JavaScript, Python
+- **Apprentissage Dévelloppement :** HTML5, CSS3
 - **Design & 3D :** Figma, Adobe Illustrator, Adobe InDesign
 - **Montage & Création :** DaVinci Resolve, OBS Studio
-- **Workflow :** Git, GitHub, Visual Studio Code
 
 ---
 
 ## 🚀 En ce moment
-- Apprentissage des fondamentaux du développement web, de l'algorithmique et de la création numérique en **B1 à La Manu**
-- Conception d'interfaces UI/UX, prototypes et petits projets interactifs
-- Bonnes pratiques Git (`commit`, branches, documentation `README.md`)
+- Apprentissage des fondamentaux du développement web, de l'algorithmique et de la création numérique **à La Manu**.
+- Apprentissage de la conception d'interfaces UI/UX, prototypes et petits projets interactifs.
 
----
-
-## 📫 Me retrouver
-- 🔗 **LinkedIn :** [À compléter]
-- 🎮 **Créations / YouTube :** [@Zqwixx](https://www.youtube.com/@Zqwixx) *(à retirer si tu veux garder ce compte 100 % scolaire)*
