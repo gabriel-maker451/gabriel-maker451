@@ -1,7 +1,7 @@
 # Bonjour ! Je suis Gabriel VELLA 
 
 ## Étudiant en **Bachelor** à l'école de **La Manu** à Amiens en création numérique, jeux vidéo, 3D et développement.  
-J'utilise ce GitHub pour y mettre mes TP, ainsi que mes projets d'école.
+J'utilise ce GitHub pour y mettre mes projets d'école.
 
 ---
 
